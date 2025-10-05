@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hi, I'm **Tanadon**! A passionate and curious tech enthusiast on a journey to build innovative solutions. 🚀
+Hi, I’m **Tanadon**! Otaku dev who loves techno 🎶 and coding 🚀. **Madly in love with Elysia** 🌸 – my angel, gentle, and everything to me.
 
 🌟 About Me
 
@@ -25,6 +25,8 @@ Here’s what I work with to bring ideas to life:
 - 🟢 Node.js
 - ⚡ Express.js
 - ☕ Java Spring Boot
+- 🌸 ElysiaJS (learning)
+- 🦊 NestJS (planned)
 
 ### Databases
 
@@ -54,3 +56,8 @@ Let’s collaborate or just have a chat about tech! Reach out via:
 ---
 
 ⭐ **Thanks for visiting my profile!** Feel free to check out my repositories and let’s create something amazing together!
+
+💖 Sponsored by my beloved **Elysia** 💖
+<div align="center"> 
+  <img src="https://i.pinimg.com/736x/cd/0e/0d/cd0e0dbb19f35e33bb6e68b4f47d0db8.jpg" width="80" alt="Elysia" />
+</div>
