@@ -59,5 +59,5 @@ Let’s collaborate or just have a chat about tech! Reach out via:
 
 💖 Sponsored by my beloved **Elysia** 💖
 <div align="center"> 
-  <img src="https://i.pinimg.com/736x/cd/0e/0d/cd0e0dbb19f35e33bb6e68b4f47d0db8.jpg" width="80" alt="Elysia" />
+  <img src="https://i.pinimg.com/736x/cd/0e/0d/cd0e0dbb19f35e33bb6e68b4f47d0db8.jpg" width="100" alt="Elysia" />
 </div>
