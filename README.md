@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hi, I’m **Tanadon**! Otaku dev who loves techno 🎶 and coding 🚀. **Madly in love with Elysia** 🌸 – my angel, gentle, and everything to me.
+### Hi, I’m **Tanadon**! Otaku dev who loves techno 🎶 and coding 🚀. **Madly in love with Elysia** 🌸 – my angel, gentle, and everything to me.
 
 🌟 About Me
 
@@ -58,7 +58,7 @@ Let’s collaborate or just have a chat about tech! Reach out via:
 ⭐ **Thanks for visiting my profile!** Feel free to check out my repositories and let’s create something amazing together!
 
 <div align="center"> 
-  <div>💖 Sponsored by my beloved <b>Elysia</b> 💖</div>
+  <h3>💖 Sponsored by my beloved <b>Elysia</b> 💖</div>
 </div>
 
 <br>
