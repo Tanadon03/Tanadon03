@@ -57,7 +57,12 @@ Let’s collaborate or just have a chat about tech! Reach out via:
 
 ⭐ **Thanks for visiting my profile!** Feel free to check out my repositories and let’s create something amazing together!
 
-💖 Sponsored by my beloved **Elysia** 💖
 <div align="center"> 
+  <div>💖 Sponsored by my beloved <b>Elysia</b> 💖</div>
+</div>
+
+<br>
+
+<div align="center" top="10"> 
   <img src="https://i.pinimg.com/736x/cd/0e/0d/cd0e0dbb19f35e33bb6e68b4f47d0db8.jpg" width="100" alt="Elysia" />
 </div>
