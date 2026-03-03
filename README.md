@@ -45,7 +45,7 @@ Let’s collaborate or just have a chat about tech! Reach out via:
 
 - 📧 **Email**: tanadon.aunyart@gmail.com
 - 💼 **LinkedIn**: Tanadon Aunyart
-- 🌐 **Website**: Coming soon...
+- 🌐 **Website**: https://tanadon03.github.io/tanadon-portfolio/
 
 ## 🚧 What I'm Working On
 
