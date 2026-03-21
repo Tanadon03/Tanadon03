@@ -54,7 +54,7 @@
 
 - 📧 **Email**: [tanadon.aunyart@gmail.com](mailto:tanadon.aunyart@gmail.com)
 - 💼 **LinkedIn**: [Tanadon Aunyart](https://www.linkedin.com/in/tanadon-aunyart-97413a329)
-- 🌐 **Website**: [tanadon-portfolio](https://tanadon03.github.io/tanadon-portfolio/)
+- 🌐 **Website**: [tanadon-portfolio](https://tanadon03.github.io/Portfolio/)
 
 ---
 
