@@ -48,6 +48,11 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux CLI](https://img.shields.io/badge/Linux_CLI-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+<div align="left"> 
+  <img src="https://images.credly.com/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" alt="https://www.credly.com/badges/dad8245a-66aa-4d07-a08f-495541e19045/public_url" width="90" />
+  <img src="https://images.credly.com/images/bb3211c0-a562-44ec-a8b5-df54deb0e5e9/blob" alt="https://www.credly.com/badges/b8f2b1b1-83f7-46c6-a72f-82bdaa84c00c/public_url" width="90" />
+</div>
+
 ---
 
 ## 📫 Connect with Me
@@ -67,5 +72,6 @@
 <div align="center"> 
   <img src="https://i.pinimg.com/736x/cd/0e/0d/cd0e0dbb19f35e33bb6e68b4f47d0db8.jpg" width="200" alt="Elysia" style="border-radius: 15px;" />
 </div>
+<p>&nbsp;</p>
 
 ⭐ **Thanks for visiting my profile!** Feel free to check out my repositories and let’s create something amazing together!
